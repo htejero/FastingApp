@@ -1,4 +1,4 @@
-load(file = "/home/htejero/lincs/Projects/Fasting/FastingApp/basic.Res.Rdata")
+load(file = "./basic.Res.Rdata")
 
 library(ggplot2)
 

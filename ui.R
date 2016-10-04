@@ -3,7 +3,7 @@ timepoints = c("12", "24", "48", "72")
 shinyUI(fluidPage(
   
   
-  titlePanel("Fasting Datasets"),
+  titlePanel("GSE24504 Dataset, Mouse"),
   
   sidebarLayout(
     sidebarPanel( 
